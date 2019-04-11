@@ -1,0 +1,19 @@
+{
+  "name": "phonegap-image-resizer",
+  "version": "0.1.2",
+  "description": "* NOTE - I am sorry, I just can't find the time to fully test the plugin and develop it further. Small updates are constantly integrated. *",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhomkribSingh/PhoneGap-Image-Resizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhomkribSingh/PhoneGap-Image-Resizer/issues"
+  },
+  "homepage": "https://github.com/KhomkribSingh/PhoneGap-Image-Resizer#readme"
+}
